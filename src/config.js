@@ -1,5 +1,5 @@
 Config = {
-    bucket: 'vuejs-photo-gallery'
+    bucket: 'vuejs-photo-gallery-production'
 };
 
 module.exports = Config;
