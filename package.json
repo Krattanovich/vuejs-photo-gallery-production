@@ -7,7 +7,6 @@
   },
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
     "test": "node test.js",
     "dev": "node build/dev-server.js",
     "start": "node app.js",
@@ -17,7 +16,6 @@
     "ejs": "^3.1.5",
     "express": "^4.15.2",
       "cosmicjs": "^2.39.91",
-      "express": "^4.14.1",
       "vue": "^2.3.3",
       "autoprefixer": "^7.1.2",
       "babel-core": "^6.22.1",
